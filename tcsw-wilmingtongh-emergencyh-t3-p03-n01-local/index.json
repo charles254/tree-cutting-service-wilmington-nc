@@ -1,0 +1,27 @@
+{
+  "nodeCode": "TCSW-WILMINGTONGH-EMERGENCYH-T3-P03-N01-LOCAL",
+  "slug": "tcsw-wilmingtongh-emergencyh-t3-p03-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Lot Clearing, Underbrush Mastication & Site Prep in Wilmington NC",
+  "canonical": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-emergencyh-t3-p03-n01-local/",
+  "primaryEntity": "Coastal Marsh Riparian Buffer & Cape Fear Watershed Bank Stabilization",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-emergencyh-t2-p01-n03-local/",
+      "anchor": "Tree Removal Cost Factors & Pricing Guide in Wilmington NC — Honest Estimates",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://treecuttingservicewilmingtonnc.net/",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-trimming",
+    "https://treecuttingservicewilmingtonnc.net/services/crane-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/emergency-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-removal",
+    "https://www.treesaregood.org/findanarborist",
+    "https://en.wikipedia.org/wiki/Arboriculture",
+    "https://en.wikipedia.org/wiki/Tree_care"
+  ]
+}
