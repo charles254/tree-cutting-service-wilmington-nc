@@ -1,0 +1,27 @@
+{
+  "nodeCode": "TCSW-WILMINGTONGH-EMERGENCYH-T3-P01-N02-LOCAL",
+  "slug": "tcsw-wilmingtongh-emergencyh-t3-p01-n02-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Sub-Grade Stump Grinding, Root Flare Removal & Turf Prep in Wilmington NC",
+  "canonical": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-emergencyh-t3-p01-n02-local/",
+  "primaryEntity": "Cobra Dynamic Synthetic Tree Cabling & Co-Dominant Stem Bracing",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-emergencyh-t2-p01-n01-local/",
+      "anchor": "Signs a Tree Requires Professional Assessment in Wilmington NC — Health Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://treecuttingservicewilmingtonnc.net/services/tree-trimming",
+    "https://www.treesaregood.org/findanarborist",
+    "https://treecuttingservicewilmingtonnc.net/",
+    "https://treecuttingservicewilmingtonnc.net/services/crane-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/emergency-tree-removal",
+    "https://en.wikipedia.org/wiki/Arboriculture",
+    "https://en.wikipedia.org/wiki/Tree_care"
+  ]
+}
