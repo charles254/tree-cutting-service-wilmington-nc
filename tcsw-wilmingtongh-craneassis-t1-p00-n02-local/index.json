@@ -1,0 +1,29 @@
+{
+  "nodeCode": "TCSW-WILMINGTONGH-CRANEASSIS-T1-P00-N02-LOCAL",
+  "slug": "tcsw-wilmingtongh-craneassis-t1-p00-n02-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "24/7 Emergency Tree Removal & Storm Damage Clearance in Wilmington NC",
+  "canonical": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-craneassis-t1-p00-n02-local/",
+  "primaryEntity": "24-Hour Emergency Coastal Dismantling & Storm Surge Timber Clearance",
+  "outgoingLinks": [
+    {
+      "url": "https://treecuttingservicewilmingtonnc.net/services/tree-removal",
+      "anchor": "tree removal services wilmington nc",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://treecuttingservicewilmingtonnc.net/services/emergency-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-trimming",
+    "https://treecuttingservicewilmingtonnc.net/services/crane-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/stump-grinding",
+    "https://treecuttingservicewilmingtonnc.net/services/storm-cleanup",
+    "https://treecuttingservicewilmingtonnc.net/",
+    "https://www.treesaregood.org/findanarborist",
+    "https://en.wikipedia.org/wiki/Arboriculture",
+    "https://en.wikipedia.org/wiki/Tree_care"
+  ]
+}
