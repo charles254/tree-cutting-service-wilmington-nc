@@ -1,0 +1,30 @@
+{
+  "nodeCode": "TCSW-WILMINGTONGH-EMERGENCYH-T2-P01-N01-LOCAL",
+  "slug": "tcsw-wilmingtongh-emergencyh-t2-p01-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Signs a Tree Requires Professional Assessment in Wilmington NC — Health Guide",
+  "canonical": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-emergencyh-t2-p01-n01-local/",
+  "primaryEntity": "Precision Negative-Rigging Physics & Heavy Sectional Lowering",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-emergencyh-t1-p00-n01-local/",
+      "anchor": "Tree Cutting Service & Tree Removal in Wilmington NC — Property Owner Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://treecuttingservicewilmingtonnc.net/services/tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-trimming",
+    "https://treecuttingservicewilmingtonnc.net/services/crane-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/stump-grinding",
+    "https://treecuttingservicewilmingtonnc.net/services/storm-cleanup",
+    "https://treecuttingservicewilmingtonnc.net/services/dead-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/",
+    "https://treecuttingservicewilmingtonnc.net/services/emergency-tree-removal",
+    "https://www.treesaregood.org/findanarborist",
+    "https://en.wikipedia.org/wiki/Arboriculture",
+    "https://en.wikipedia.org/wiki/Tree_care"
+  ]
+}
