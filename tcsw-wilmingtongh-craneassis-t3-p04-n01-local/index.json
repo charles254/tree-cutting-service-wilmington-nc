@@ -1,0 +1,27 @@
+{
+  "nodeCode": "TCSW-WILMINGTONGH-CRANEASSIS-T3-P04-N01-LOCAL",
+  "slug": "tcsw-wilmingtongh-craneassis-t3-p04-n01-local",
+  "tier": 3,
+  "templateId": "glossary",
+  "title": "Tree Disease Diagnostics, Root Rot & Hardwood Health in Wilmington NC",
+  "canonical": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-craneassis-t3-p04-n01-local/",
+  "primaryEntity": "Low-Ground-Pressure Outrigger Turf Mats & Coastal Lawn Protection",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-craneassis-t2-p02-n01-local/",
+      "anchor": "City of Wilmington Tree Preservation Ordinances & Municipal Permit Codes",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://treecuttingservicewilmingtonnc.net/services/crane-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/emergency-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-trimming",
+    "https://www.treesaregood.org/findanarborist",
+    "https://en.wikipedia.org/wiki/Arboriculture",
+    "https://en.wikipedia.org/wiki/Tree_care"
+  ]
+}
