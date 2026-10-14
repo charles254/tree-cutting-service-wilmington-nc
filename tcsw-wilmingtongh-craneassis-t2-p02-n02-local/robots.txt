@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-craneassis-t2-p02-n02-local/sitemap.xml
