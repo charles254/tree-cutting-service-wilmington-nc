@@ -1,0 +1,29 @@
+{
+  "nodeCode": "TCSW-WILMINGTONGH-CRANEASSIS-T2-P02-N02-LOCAL",
+  "slug": "tcsw-wilmingtongh-craneassis-t2-p02-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Tree Trimming, Canopy Pruning & Crown Care in Wilmington NC — ANSI A300",
+  "canonical": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-craneassis-t2-p02-n02-local/",
+  "primaryEntity": "Category 1-5 Hurricane Tree Damage Triage & Structural Threat Mitigation",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/tree-cutting-service-wilmington-nc/tcsw-wilmingtongh-craneassis-t1-p00-n02-local/",
+      "anchor": "24/7 Emergency Tree Removal & Storm Damage Clearance in Wilmington NC",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://treecuttingservicewilmingtonnc.net/services/storm-cleanup",
+    "https://treecuttingservicewilmingtonnc.net/services/dead-tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/land-clearing",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-trimming",
+    "https://www.treesaregood.org/findanarborist",
+    "https://treecuttingservicewilmingtonnc.net/",
+    "https://treecuttingservicewilmingtonnc.net/services/tree-removal",
+    "https://treecuttingservicewilmingtonnc.net/services/emergency-tree-removal",
+    "https://en.wikipedia.org/wiki/Arboriculture",
+    "https://en.wikipedia.org/wiki/Tree_care"
+  ]
+}
